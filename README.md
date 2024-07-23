@@ -1,4 +1,4 @@
-# Amazon Purchases Analysis Using MySQL and Tableau
+# Amazon Purchases Analysis Using MySQL and Tableau (Part - I)
 Objective 🎯 : 
 
 Conduct an exhaustive analysis of Amazon product purchases that includes revenue analysis over different parts of the year, sales analysis, product analysis, and customer analysis. Performing analysis on the various aspects of the dataset will give us a holistic view of the trends,  hence helping us derive insights that can deliver a wider impact.
@@ -32,3 +32,6 @@ Key Insights 💡 :
 Conclusion ✅ : 
 
 This project provided valuable insights into sales and revenue patterns and highlighted the importance of data-driven decision-making on customer and product levels.
+
+
+In Part II, I'll visualize these findings using Tableau!...(to be continued)
