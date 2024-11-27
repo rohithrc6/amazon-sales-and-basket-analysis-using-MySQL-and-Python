@@ -1,4 +1,4 @@
-# Amazon Purchases Analysis Using MySQL and Tableau (Part - I)
+# Amazon Purchases Analysis Using MySQL (Part - I)
 Objective 🎯 : 
 
 Conduct an exhaustive analysis of Amazon product purchases that includes revenue analysis over different parts of the year, sales analysis, product analysis, and customer analysis. Performing analysis on the various aspects of the dataset will give us a holistic view of the trends,  hence helping us derive insights that can deliver a wider impact.
@@ -19,7 +19,7 @@ Methodology ⚙ :
 
 - Tools: MySQL for data cleaning and analysis.
 
-- Techniques: The analysis employs basic to advanced SQL techniques including CTEs and window functions for ranking and filtering data, such as identifying top products and categories. It uses joins to enrich data and aggregates such as SUM and AVG for summarizing revenue and volume. Additionally, subqueries are utilized for intermediate calculations.
+- Techniques: The analysis employs basic to advanced SQL techniques including CTEs and window functions for ranking and filtering data, such as identifying top products and categories. It uses joins to enrich data and aggregates such as SUM and AVG to summarize revenue and volume. Additionally, subqueries are utilized for intermediate calculations.
 
 Key Insights 💡 :
 
