@@ -1,4 +1,4 @@
-# Amazon Purchases Analysis Using MySQL and Python (Part - I)
+# Amazon Sales and Basket Analysis Using MySQL and Python (Part - I)
 Objective 🎯 : 
 
 1. Conduct an exhaustive analysis of Amazon product purchases that includes revenue analysis over different parts of the year, sales analysis, product analysis, and customer analysis. Performing analysis on the various aspects of the dataset will give us a holistic view of the trends,  hence helping us derive insights that can deliver a wider impact.
