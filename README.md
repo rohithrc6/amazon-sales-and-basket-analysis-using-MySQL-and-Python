@@ -35,6 +35,6 @@ Conclusion ✅ :
 
 This project provided valuable insights into sales and revenue patterns and highlighted the importance of data-driven decision-making on customer and product levels.
 
-(Data Scource)([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY])
+[Data Scource]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY])
 
 In Part II, I'll visualize these findings using Tableau!...(to be continued)
